@@ -486,9 +486,6 @@ margin-right: 120px;
 .footer-soc-item {}
 
 .footer-input-wrapper {
-    display: flex;
-    flex-direction: column;
-        gap: 16px;
         margin-left: 80px;
 }
 
@@ -498,6 +495,7 @@ margin-right: 120px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #fff;
+        margin-bottom: 16px;
 }
 
 .footer-form {
